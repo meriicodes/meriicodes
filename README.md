@@ -1,4 +1,4 @@
-## Oii! Eu sou a Maria Clara.
+## Oii! Eu sou a Maria Clara Soares.
  
 - 👧 Pronomes: ela/dela
 - 🐍 Aprendendo: Python
