@@ -1,4 +1,4 @@
-## Oi, Eu sou a Clara Soares <3
+## Oi, Eu sou a Clara <3
  
 - 👧 Pronomes: ela/dela
 - 💻 Aprendendo: Python, java e SQL
