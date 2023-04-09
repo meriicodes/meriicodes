@@ -5,7 +5,7 @@ Olá! Meu nome é Maria Clara e este é o meu GitHub. Aqui você encontrará pro
 ## Sobre mim
 
 - Sou nova no universo da programação
-- Estou aprendendo Java, Python, HTML e CSS
+- Aprendendo: Python e Java
 
 ## Contato
 
