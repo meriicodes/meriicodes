@@ -14,5 +14,4 @@ Olá! Meu nome é Maria Clara e este é o meu GitHub. Aqui você encontrará pro
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo se tiver alguma dúvida ou sugestão. Obrigado por visitar o meu GitHub!
 
-![Merii's GitHub stats](https://github-readme-stats.vercel.app/api?username=meriicodes&theme=aura_dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meriicodes&hide_progress=true)](https://github.com/meriicodes/github-readme-stats)
