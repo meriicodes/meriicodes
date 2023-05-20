@@ -1,10 +1,10 @@
 # Bem-vindo(a) ao meu GitHub!
 
-Olá! Meu nome é Maria Clara e este é o meu GitHub. Aqui você encontrará projetos que eu criei.
+Olá! Meu nome é Maria Clara e esse é o meu GitHub. Aqui você encontrará alguns projetos que eu criei.
 
 ## Sobre mim
 
-- Sou nova no universo da programação
+- Sou nova na area da programação
 - Aprendendo: Python e Java
 
 ## Contato
